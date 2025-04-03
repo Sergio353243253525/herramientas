@@ -11,7 +11,7 @@ CPU-Z es una herramienta ligera que muestra información detallada sobre los com
 2. Descarga la versión estándar (no requiere instalación) o la versión instalable
 3. Ejecuta el archivo .exe
 
-![Página de descarga CPU-Z](https://www.cpuid.com/medias/images/en/cpu-z-download.png)
+
 
 ## Uso Básico
 
