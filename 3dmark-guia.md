@@ -3,7 +3,7 @@
 ## Introducción
 3DMark es el estándar para benchmarking de GPU, probando el rendimiento en juegos y aplicaciones gráficas intensivas.
 
-![Interfaz 3DMark](3dmark.jpg)
+![Interfaz 3DMark](3dmark.png)
 
 ## Descarga e Instalación
 
