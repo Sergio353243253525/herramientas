@@ -3,7 +3,7 @@
 ## Introducción
 Herramienta para overclocking y monitoreo de tarjetas gráficas, compatible con casi todas las GPUs.
 
-![Interfaz principal](https://www.msi.com/images/Afterburner/Afterburner_4.6.2.png)
+
 
 ## Descarga e Instalación
 
