@@ -3,7 +3,7 @@
 ## Introducción
 CPU-Z es una herramienta ligera que muestra información detallada sobre los componentes principales de tu sistema, especialmente el procesador, memoria y placa base.
 
-![Pantalla principal CPU-Z](https://www.cpuid.com/medias/images/en/cpu-z-cpu.png)
+![Pantalla principal CPU-Z](cpu1.png)
 
 ## Descarga e Instalación
 
