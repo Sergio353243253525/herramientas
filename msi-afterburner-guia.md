@@ -20,7 +20,7 @@ Herramienta para overclocking y monitoreo de tarjetas gráficas, compatible con 
 3. **Monitoreo en tiempo real**
 4. **OSD en juegos**
 
-![Ajustes overclocking](https://www.msi.com/images/Afterburner/Afterburner_OC.png)
+![Ajustes overclocking](msi.png)
 
 ## Configuración Básica
 
