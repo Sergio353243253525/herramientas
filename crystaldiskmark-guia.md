@@ -19,7 +19,7 @@ Herramienta para medir el rendimiento de lectura/escritura de discos duros y uni
 2. **Número de pasadas**: 5-9 para resultados consistentes
 3. **Selección de unidad**: Elige la unidad a testear
 
-![Configuración prueba](https://crystalmark.info/images/cdm8-settings-en.png)
+![Configuración prueba](cristal.png)
 
 ## Interpretación de Resultados
 
