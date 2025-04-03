@@ -29,7 +29,7 @@ CPU-Z es una herramienta ligera que muestra información detallada sobre los com
 
 5. **SPD**: Detalles por cada módulo de memoria
 
-![Ejemplo información CPU](https://www.cpuid.com/medias/images/en/cpu-z-cpu-details.png)
+![Ejemplo información CPU](cpu.png)
 
 ## Interpretación de Datos
 
