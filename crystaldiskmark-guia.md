@@ -11,7 +11,7 @@ Herramienta para medir el rendimiento de lectura/escritura de discos duros y uni
 2. Versión portable disponible (no requiere instalación)
 3. Ejecuta como administrador para mejores resultados
 
-![Opciones de descarga](https://crystalmark.info/images/cdm-download-page.png)
+![Opciones de descarga](crystaldiskmark.png)
 
 ## Configuración de Prueba
 
