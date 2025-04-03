@@ -11,7 +11,7 @@ Herramienta para overclocking y monitoreo de tarjetas gráficas, compatible con 
 2. Incluye RivaTuner Statistics Server (para OSD)
 3. Instalación sencilla con opciones por defecto
 
-![Proceso instalación](https://www.msi.com/images/Afterburner/Afterburner_install.png)
+![Proceso instalación](msi.png)
 
 ## Funciones Principales
 
