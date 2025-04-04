@@ -11,7 +11,7 @@
 2. Versión básica gratuita con pruebas limitadas
 3. Versión Advanced con más pruebas (de pago)
 
-![Opciones de descarga](https://www.3dmark.com/images/3dmark-download-options.jpg)
+![Opciones de descarga](MARK.png)
 
 ## Pruebas Principales
 
@@ -19,7 +19,7 @@
 2. **Fire Strike**: Para PCs gaming tradicionales
 3. **Port Royal**: Prueba de ray tracing
 
-![Comparativa pruebas](https://www.3dmark.com/images/3dmark-tests-comparison.jpg)
+![Comparativa pruebas](MARK1.png)
 
 ## Interpretación de Resultados
 
@@ -27,4 +27,4 @@
 - **FPS promedio**: Fotogramas por segundo durante la prueba
 - **Comparativa**: Puedes comparar con otros sistemas similares
 
-![Resultados ejemplo](https://www.3dmark.com/images/3dmark-result-details.jpg)
+![Resultados ejemplo](MARK2.png)
