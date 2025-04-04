@@ -31,8 +31,12 @@ CPU-Z es una herramienta ligera que muestra información detallada sobre los com
 
 ![Ejemplo información CPU](cpu.png)
 
+
+(cpu1.png)
 ## Interpretación de Datos
 
 - **Multiplicador**: Relación entre frecuencia base y frecuencia real
 - **Voltaje**: Importante para overclocking
 - **Temperatura**: Requiere complemento como HWMonitor
+
+- (cpu2.png)
