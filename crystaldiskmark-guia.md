@@ -27,4 +27,4 @@ Herramienta para medir el rendimiento de lectura/escritura de discos duros y uni
 - **4K Q32T1**: Rendimiento con archivos pequeños y colas
 - **4K**: Rendimiento con archivos pequeños sin colas
 
-![Resultados ejemplo](https://crystalmark.info/images/cdm8-result-ssd-en.png)
+![Resultados ejemplo](DISK1.png)
