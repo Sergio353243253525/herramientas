@@ -22,6 +22,8 @@ Herramienta para overclocking y monitoreo de tarjetas gráficas, compatible con 
 
 ![Ajustes overclocking](MSI2.png)
 
+![Ajustes overclocking](msi4.png)
+
 ## Configuración Básica
 
 1. **Limite de potencia**: Aumenta gradualmente (no sobrepasar 110-120%)
