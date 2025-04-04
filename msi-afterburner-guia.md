@@ -20,7 +20,7 @@ Herramienta para overclocking y monitoreo de tarjetas gráficas, compatible con 
 3. **Monitoreo en tiempo real**
 4. **OSD en juegos**
 
-![Ajustes overclocking](msi.png)
+![Ajustes overclocking](MSI2.png)
 
 ## Configuración Básica
 
@@ -28,4 +28,4 @@ Herramienta para overclocking y monitoreo de tarjetas gráficas, compatible con 
 2. **Temperatura objetivo**: Establece límite seguro (80-85°C para mayoría GPUs)
 3. **Curva de ventilador**: Balance entre ruido y refrigeración
 
-![Monitorización en juego](https://www.msi.com/images/Afterburner/Afterburner_OSD.png)
+![Monitorización en juego](msi.png.png)
