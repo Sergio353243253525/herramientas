@@ -11,7 +11,7 @@ CPU-Z es una herramienta ligera que muestra información detallada sobre los com
 2. Descarga la versión estándar (no requiere instalación) o la versión instalable
 3. Ejecuta el archivo .exe
 
-![Página de descarga CPU-Z](https://www.cpuid.com/medias/images/en/cpu-z-download.png)
+
 
 ## Uso Básico
 
@@ -31,8 +31,13 @@ CPU-Z es una herramienta ligera que muestra información detallada sobre los com
 
 ![Ejemplo información CPU](cpu.png)
 
+
+![Ejemplo información CPU](cpu2.png)
+  ![Ejemplo información CPU](cpu3.png)
 ## Interpretación de Datos
 
 - **Multiplicador**: Relación entre frecuencia base y frecuencia real
 - **Voltaje**: Importante para overclocking
 - **Temperatura**: Requiere complemento como HWMonitor
+
+  ![Ejemplo información CPU](cpu4.png)

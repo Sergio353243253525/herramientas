@@ -3,7 +3,7 @@
 ## Introducción
 Herramienta para overclocking y monitoreo de tarjetas gráficas, compatible con casi todas las GPUs.
 
-![Interfaz principal](https://www.msi.com/images/Afterburner/Afterburner_4.6.2.png)
+
 
 ## Descarga e Instalación
 
@@ -11,7 +11,7 @@ Herramienta para overclocking y monitoreo de tarjetas gráficas, compatible con 
 2. Incluye RivaTuner Statistics Server (para OSD)
 3. Instalación sencilla con opciones por defecto
 
-![Proceso instalación](https://www.msi.com/images/Afterburner/Afterburner_install.png)
+![Proceso instalación](msi1.png)
 
 ## Funciones Principales
 
@@ -20,7 +20,9 @@ Herramienta para overclocking y monitoreo de tarjetas gráficas, compatible con 
 3. **Monitoreo en tiempo real**
 4. **OSD en juegos**
 
-![Ajustes overclocking](https://www.msi.com/images/Afterburner/Afterburner_OC.png)
+![Ajustes overclocking](MSI2.png)
+
+![Ajustes overclocking](msi4.png)
 
 ## Configuración Básica
 
@@ -28,4 +30,4 @@ Herramienta para overclocking y monitoreo de tarjetas gráficas, compatible con 
 2. **Temperatura objetivo**: Establece límite seguro (80-85°C para mayoría GPUs)
 3. **Curva de ventilador**: Balance entre ruido y refrigeración
 
-![Monitorización en juego](https://www.msi.com/images/Afterburner/Afterburner_OSD.png)
+![Monitorización en juego](msi.png)

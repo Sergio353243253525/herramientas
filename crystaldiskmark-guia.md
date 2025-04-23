@@ -11,7 +11,7 @@ Herramienta para medir el rendimiento de lectura/escritura de discos duros y uni
 2. Versión portable disponible (no requiere instalación)
 3. Ejecuta como administrador para mejores resultados
 
-![Opciones de descarga](https://crystalmark.info/images/cdm-download-page.png)
+![Opciones de descarga](crystaldiskmark.png)
 
 ## Configuración de Prueba
 
@@ -19,7 +19,7 @@ Herramienta para medir el rendimiento de lectura/escritura de discos duros y uni
 2. **Número de pasadas**: 5-9 para resultados consistentes
 3. **Selección de unidad**: Elige la unidad a testear
 
-![Configuración prueba](https://crystalmark.info/images/cdm8-settings-en.png)
+![Configuración prueba](cristal.png)
 
 ## Interpretación de Resultados
 
@@ -27,4 +27,4 @@ Herramienta para medir el rendimiento de lectura/escritura de discos duros y uni
 - **4K Q32T1**: Rendimiento con archivos pequeños y colas
 - **4K**: Rendimiento con archivos pequeños sin colas
 
-![Resultados ejemplo](https://crystalmark.info/images/cdm8-result-ssd-en.png)
+![Resultados ejemplo](DISK1.png)
